@@ -1,0 +1,45 @@
+#contact {
+    background-color: #222222;
+    color: #ffffff;
+    padding: 50px 0;
+  }
+  
+  .contact-container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .contact-container h1 {
+    text-align: center;
+    color: #EC8A23;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  label {
+    margin-bottom: 8px;
+  }
+  
+  input,
+  textarea {
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    padding: 15px 30px;
+    background: #EC8A23;
+    color: #fff;
+    outline: none;
+    border: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  

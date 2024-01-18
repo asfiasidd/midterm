@@ -1,0 +1,65 @@
+body {
+    width: 100%;
+    height: auto;
+    overflow-x: hidden;
+     background-color: #222222; 
+  }
+  
+#h1{
+    font-family:'Oswald', sans-serif;
+      color: #EC8A23;
+      padding-top: 7.8rem;
+      text-align: center;
+      font-size: 2.80rem;
+  }
+
+  #para1{
+    color: grey;
+    text-align: center;
+    font-family:"poppins",sans-serif;
+    font-weight: 600;
+    line-height: 30px;
+  }
+
+  main{
+    display: flex;
+    height:calc(100vh 100px);
+    align-items: center;
+    justify-content: center;
+}
+
+.content-left{
+    width: 40%;
+}
+
+main h1{
+    font-family:'Oswald', sans-serif;
+    color: #EC8A23;
+    padding-top: 7.8rem;
+    text-align: center;
+    font-size: 2.80rem;
+}
+
+main h2{
+    font-family:'Oswald', sans-serif;
+    color: #EC8A23;
+    padding-top: 7.8rem;
+    text-align: center;
+    font-size: 2.80rem;
+   
+}
+
+main p{
+    font-family:"poppins",sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: gray;
+    line-height: 31.5px;
+    margin: 38px 0;
+    color: grey;
+    text-align: center;
+    font-family:"poppins",sans-serif;
+    font-weight: 600;
+    line-height: 30px;
+}
+
